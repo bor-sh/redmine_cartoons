@@ -5,7 +5,7 @@ This is just a small piece of plugin to only show a cartoon on the home page.
 *Instalation*
   1.- Install Redmine (http://www.redmine.org/wiki/1/RedmineInstall)
   2.- Get the plugin and install
-    $> cd $REDMINE_ROOT/plugins
+    $> cd $REDMINE_ROOT/plugins or cd $REDMINE_ROOT/vendor/plugins depends on redmine version
     $> git clone git://github.com/mkinski/redmine_cartoons.git
   3.- Restart server and take a look at your home page
 
